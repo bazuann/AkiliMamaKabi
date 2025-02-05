@@ -20,6 +20,7 @@ Bu proje, evcil hayvanların sahipleri evde olmasa bile düzenli olarak mama ve 
 ![Mama Kabı Kaba Taslağı]![hesap_kitap_proje](https://github.com/user-attachments/assets/e20e7a01-e5ee-4363-ae37-7960544d9f36)
 ![Mama Kabı Prototip]![main porje v9](https://github.com/user-attachments/assets/071aee43-5029-4192-9d95-ee43df3cc138)
 ![Mama Kabı Prototip Kapalı]![main porje Kapalı Hali](https://github.com/user-attachments/assets/671aff2f-8410-4167-b6bd-def9184f2f46)
+![Mama Kabı ELektronik Bağlantı şeması]![final-Model](https://github.com/user-attachments/assets/b268f60d-08b9-4879-8c96-8120b94856e5)
 
 ## 📌 Kurulum ve Kullanım
 1. **Kolay Kullanım**: Prize takıp istenilen ayarlamalar dijital ekran veya mobil uygulamadan yapılır ve kullanıma hazır hale getirilir.
